@@ -94,6 +94,7 @@ sources = [
     "https://rootjazz.com/proxies/proxies.txt",
     "https://www.proxy-list.download/api/v1/get?type=http",
     "https://www.proxy-list.download/api/v1/get?type=https",
+    "https://rcloak.com/api/proxies/raw?protocol=all",
 ]
 
 [socks4]
